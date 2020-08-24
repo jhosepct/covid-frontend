@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+h1{
+    text-align: center;
+    font-family: Georgia;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 5px;
+
+}
+.chart-peru div{
+    display: inline-block;
+    border: 1px solid rgba(10, 49, 245, 0.74);
+    margin-left: 5px;
+    width: 49%;
+}
+.chart-world div{
+    display: block;
+    border: 1px solid rgba(10, 49, 245, 0.74);
+    margin-left: 5px;
+    width: 100%;
+}
